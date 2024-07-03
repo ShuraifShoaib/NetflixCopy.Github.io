@@ -187,11 +187,11 @@ img {
 }
 
 video {
-    width: 430px;
-    top: 120px;
-    left: 70px;
-    position: absolute;
+    max-width: 542px;
+    top: 55px;
     right: 0;
+    position: absolute;
+   
 }
 
 section.first>div {
