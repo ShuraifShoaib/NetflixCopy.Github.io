@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    background-image: url(assets/PK-en-20240610-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-image: url(/assets/PK-en-20240610-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: max(100vw, 1000px);
@@ -187,8 +187,9 @@ img {
 }
 
 video {
-    width: 555px;
-    top: 51px;
+    width: 430px;
+    top: 120px;
+    left: 70px;
     position: absolute;
     right: 0;
 }
